@@ -9,9 +9,9 @@ The purpose of this challenge is to determine the number of retiring employees p
 -A total of 90,398 employees are of retirement-age.\
 -A total of 1,940 employees are eligible to be mentors in the mentorship program.\
 -63 % of the workforce is either retirment or mentorship eligible.\
--64% of the employees of retirment age (57,668) have senior titles.\
+-64% of the employees of retirment age (57,668) have senior titles.
 ## Summary
--90,398 roles are in urgent need to be filled out as soon as the workforce starts retiring at any given time.
+-90,398 roles are in urgent need to be filled out as soon as the workforce starts retiring at any given time.\
 -No, there are only 1,940 employees who are eligible to participate in a mentorship program.
 ### Recommendations
 In order to provide more insight, I would make queries to find out how many young employeees there are at the company. Also, I would recommend finding how long these employees have been in their current roles to try and find fits for the mentors that have already been identified.
